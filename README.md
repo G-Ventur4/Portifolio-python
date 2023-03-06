@@ -1,3 +1,3 @@
 # Portifolio
 
-Aqui estão os meus Apps feitos em Python
+Aqui estão os meus projetos feitos em Python
